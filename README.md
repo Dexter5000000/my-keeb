@@ -1,2 +1,3 @@
 # my-keeb
 This is my first ever time working with hardware things so I'm going to try my best to make it work and make it as minimal as I can...
+I read the DOC's a bit more and came up with this... <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/17382b0e-7763-4042-9e09-f3c318626cd6" />
